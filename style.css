@@ -1,1 +1,24 @@
+h1 { style=color: #000000;
+  text-align: center;
+  font-size: 40pt;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-style: italic;
+}
+p {
+  color: #000000;
+  background-color: #009996;
+  padding: 0.6em;
+  margin: 9.8em;
+  text-align: right;
+  border: 4px Dashed #000000;
+}
+div {
+  text-align: center;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
 
